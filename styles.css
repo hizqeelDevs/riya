@@ -14,7 +14,7 @@ body {
 	width: 100%;
 	place-items: center;
 	background-image: url("res/FireShot\ Capture\ 002\ -\ \ -\ [].png");
-	background-size: cover;
+	background-size: contain;
 }
 
 p {
